@@ -1,14 +1,14 @@
-# PIE
-PIE or Python-Imaging-Effects is a PyPI Package which helps in Standard Imaging Techniques.
+# PFX
+PFX or Python-Imaging-Effects is a PyPI Package which helps in Standard Imaging Techniques.
 
 ## How to download :
 Enter either of the pip commands on your console to install it.
 
-`pip install PIE` **or** `pip install pie`
+`pip install PFX` **or** `pip install pfx`
 
 
 ## How to use
-PIE can apply various effects to a given image
+PFX can apply various effects to a given image
 Following commands can be used:
 
 **⭐ The result will be saved in the same file path, a prompt will also be shown as to where the file is saved!**
@@ -17,49 +17,49 @@ Following commands can be used:
 
 #### 1. To convert an image into black and white :
 ```
-pie -bg "filepath.png"
+pfx -bg "filepath.png"
 ```
 **or**
 ```
-pie -black_white "filepath.png"
+pfx -black_white "filepath.png"
 ```
 
 #### 2. To pixelate the given image :
 ```
-pie -p "filepath.png"
+pfx -p "filepath.png"
 ```
 **or**
 ```
-pie -pixelate "filepath.png"
+pfx -pixelate "filepath.png"
 ```
 #### 3. To blur the given image :
 ```
-pie -b "filepath.png"
+pfx -b "filepath.png"
 ```
 **or**
 ```
-pie -blur "filepath.png"
+pfx -blur "filepath.png"
 ```
 #### 4. To blur the given image's edges :
 ```
-pie -be "filepath.png"
+pfx -be "filepath.png"
 ```
 **or**
 ```
-pie -bluredge "filepath.png"
+pfx -bluredge "filepath.png"
 ```
 #### 5. To create a thumbnail of the given image :
 ```
-pie -tn "filepath.png"
+pfx -tn "filepath.png"
 ```
 **or**
 ```
-pie -thumbnail "filepath.png"
+pfx -thumbnail "filepath.png"
 ```
 ## TL;DR 
 Just execute the following snippet if you have an IQ level above monkeys :
 ```
-pie -h
+pfx -h
 ```
 Then figure it out yourself 😎
 ## Any Issues:
