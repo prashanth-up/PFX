@@ -1,5 +1,5 @@
 # PFX
-PFX or Python-Imaging-Effects is a PyPI Package which helps in Standard Imaging Techniques.
+PFX or Python-Effects is a PyPI Package which helps in Standard Imaging Techniques.
 
 ## How to download :
 Enter either of the pip commands on your console to install it.
@@ -11,7 +11,7 @@ Enter either of the pip commands on your console to install it.
 PFX can apply various effects to a given image
 Following commands can be used:
 
-**⭐ The result will be saved in the same file path, a prompt will also be shown as to where the file is saved!**
+> **The result will be saved in the same file path, a prompt will also be shown as to where the file is saved!**
 
 
 
