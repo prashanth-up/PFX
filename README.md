@@ -1,6 +1,8 @@
-# PFX
+# PFX ![PyPI - License](https://img.shields.io/pypi/l/PFX) ![PyPI](https://img.shields.io/pypi/v/PFX)
+
 PFX or Python-Effects is a PyPI Package which helps in Standard Imaging Techniques.
 
+Check it out at : https://pypi.org/project/PFX/
 ## How to download :
 Enter either of the pip commands on your console to install it.
 
@@ -61,7 +63,7 @@ Just execute the following snippet if you have an IQ level above average :
 ```
 pfx -h
 ```
-Then figure it out yourself!
+Then help yourself!
 ## Any Issues:
 - This is the first draft of the PYPI package.
 
