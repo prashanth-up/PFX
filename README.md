@@ -57,12 +57,16 @@ pfx -tn "filepath.png"
 pfx -thumbnail "filepath.png"
 ```
 ## TL;DR 
-Just execute the following snippet if you have an IQ level above monkeys :
+Just execute the following snippet if you have an IQ level above average :
 ```
 pfx -h
 ```
-Then figure it out yourself 😎
+Then figure it out yourself!
 ## Any Issues:
-This is the first draft of the PYPI package.
-This is prone to bugs. Let me know if any issues come up. 
+- This is the first draft of the PYPI package.
+
+- This is prone to bugs. Let me know if any issues come up.
+
+- PFX is a dumb name, waiting for the real name's ownership to clear up.
 ## More imaging effects arriving soon...
+- Feel free to share any open ideas!
