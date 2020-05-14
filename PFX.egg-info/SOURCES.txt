@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+PFX.egg-info/PKG-INFO
+PFX.egg-info/SOURCES.txt
+PFX.egg-info/dependency_links.txt
+PFX.egg-info/entry_points.txt
+PFX.egg-info/requires.txt
+PFX.egg-info/top_level.txt
+pfx/__init__.py
+pfx/main.py
