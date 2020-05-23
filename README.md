@@ -58,6 +58,14 @@ pfx -tn "filepath.png"
 ```
 pfx -thumbnail "filepath.png"
 ```
+#### 6. To create a PDF of the given image :
+```
+pfx -pdf "filepath.png"
+```
+**or**
+```
+pfx -makepdf "filepath.png"
+```
 ## TL;DR 
 Just execute the following snippet if you have an IQ level above average :
 ```
