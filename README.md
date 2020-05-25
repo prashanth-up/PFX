@@ -1,4 +1,4 @@
-# PFX ![PyPI - License](https://img.shields.io/pypi/l/PFX) ![PyPI](https://img.shields.io/pypi/v/PFX)
+# PFX ![PyPI - License](https://img.shields.io/pypi/l/PFX) ![PyPI](https://img.shields.io/pypi/v/PFX) ![PyPI - Downloads](https://img.shields.io/pypi/dd/PFX)
 
 PFX or Python-Effects is a PyPI Package which helps in Standard Imaging Techniques.
 
