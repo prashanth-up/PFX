@@ -1,8 +1,17 @@
-language: python
+  language: python
 
-install:
-  pip install pillow
-  pip install pfx
+  python:
+      - "3.6"
+      - "3.7"
+      - "3.8"
+
+  os:
+      - windows
+      - linux
+
+  install:
+      pip install pillow
+      pip install pfx
   
-script:
+  script:
     - pytest
