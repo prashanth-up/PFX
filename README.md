@@ -1,4 +1,5 @@
-# PFX ![PyPI - License](https://img.shields.io/pypi/l/PFX) ![PyPI](https://img.shields.io/pypi/v/PFX)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up/PFX&title=Python+Repo+Views)
+# PFX ![PyPI - License](https://img.shields.io/pypi/l/PFX) ![PyPI](https://img.shields.io/pypi/v/PFX)  
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up/PFX&title=Python+Repo+Views) -->
 
 <!-- ![PyPI - Downloads](https://img.shields.io/pypi/dd/PFX) -->
 
@@ -69,7 +70,7 @@ pfx -pdf "filepath.png"
 pfx -makepdf "filepath.png"
 ```
 ## TL;DR 
-Just execute the following snippet if you have an IQ level above average :
+Run the following snippet for command list :
 ```
 pfx -h
 ```
